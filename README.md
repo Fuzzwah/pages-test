@@ -1,7 +1,6 @@
 # pages-test
 
-```
-mermaid
+```mermaid
 graph TD;
     A-->B;
     A-->C;
